@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "next.js2026ceo",
   "version": "0.1.0",
@@ -41,3 +42,48 @@
     "typescript": "^5"
   }
 }
+=======
+{
+  "name": "next.js2026ceo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "next": "16.1.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+=======
+    "@radix-ui/react-separator": "^1.1.8",
+    "@radix-ui/react-slot": "^1.2.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.562.0",
+    "next": "16.1.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "tailwind-merge": "^3.4.0"
+>>>>>>> a101d78 (update from another PC)
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+<<<<<<< HEAD
+=======
+    "tw-animate-css": "^1.4.0",
+>>>>>>> a101d78 (update from another PC)
+    "typescript": "^5"
+  }
+}
+>>>>>>> 63788a718aec2ab147063fb952ffda7c4cd9e935
